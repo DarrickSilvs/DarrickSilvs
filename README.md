@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on: AI + Backend development + Frontend <br>🤝 I'm looking to collaborate on: Interesting projects and meeting cool people<br>🚀 I'm looking for help in: AI and just programming in general<br>📚 I'm currently learning: Rust and Web Dev <br> 🎉 Here's a fun fact about me: I start a project with full focus… until I get 10 new ideas and suddenly want to build all of them instead
+💻 I'm currently working on: Backend development + Frontend <br>🤝 I'm looking to collaborate on: Interesting projects and meeting cool people<br>🚀 I'm looking for help in: AI and just programming in general<br>📚 I'm currently learning: Rust and Web Dev <br> 🎉 Here's a fun fact about me: I start a project with full focus… until I get 10 new ideas and suddenly want to build all of them instead
 
 
 ## 🌐 Socials:
